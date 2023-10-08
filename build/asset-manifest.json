@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.633e5384.css",
+    "main.js": "/static/js/main.ae0a3f4e.js",
+    "static/js/787.85435590.chunk.js": "/static/js/787.85435590.chunk.js",
+    "static/media/massphoto1.png": "/static/media/massphoto1.413c46d49f2fa090b260.png",
+    "static/media/massmovies4.png": "/static/media/massmovies4.bd428fc9febdf4e37649.png",
+    "static/media/massmovies3.png": "/static/media/massmovies3.7f29d7b55621e16b363e.png",
+    "static/media/theatre4.jpg": "/static/media/theatre4.b18e7ac6efbabe3e9587.jpg",
+    "static/media/massmovies1.png": "/static/media/massmovies1.6d7545c085dc85d82d5e.png",
+    "static/media/staricon.png": "/static/media/staricon.ef965c1f2855898766ea.png",
+    "static/media/usericon.png": "/static/media/usericon.0d14c6999b4a5c8e86a7.png",
+    "static/media/homeicon.png": "/static/media/homeicon.2cc7c1911d5e00c80a53.png",
+    "index.html": "/index.html",
+    "main.633e5384.css.map": "/static/css/main.633e5384.css.map",
+    "main.ae0a3f4e.js.map": "/static/js/main.ae0a3f4e.js.map",
+    "787.85435590.chunk.js.map": "/static/js/787.85435590.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.633e5384.css",
+    "static/js/main.ae0a3f4e.js"
+  ]
+}
